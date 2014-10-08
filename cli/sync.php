@@ -42,7 +42,7 @@ Options:
 -h, --help            Print out this help
 
 Example:
-\$sudo -u www-data /usr/bin/php enrol/mitroles/cli/sync.php
+\$sudo -u www-data /usr/bin/php enrol/ccaroles/cli/sync.php
 
 Sample cron entry:
 # 5 minutes past 4am

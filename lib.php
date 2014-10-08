@@ -9,7 +9,7 @@ defined('MOODLE_INTERNAL') || die();
  *
  * @package    enrol
  * @subpackage ccaroles
- * @copyright  2014 CCA (Mark Norton)
+ * @copyright  2014 CCA
  * @license    No external license granted.
  */
 class enrol_ccaroles_plugin extends enrol_plugin {
